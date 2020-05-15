@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "D:\\Programme\\Anaconda\\envs\\DS_proj1_03-20\\python.exe"
+    "python.pythonPath": "D:\\Programme\\Anaconda\\envs\\ThinkStats2\\python.exe",
+    "python.linting.enabled": true
 }
